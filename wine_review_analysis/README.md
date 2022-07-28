@@ -1,3 +1,4 @@
+[Ссылка на на датасет (файл - winemag-data-130k-v2.csv)](https://www.kaggle.com/datasets/zynicide/wine-reviews)
 
 При анализе этого датасета были поставлены следующие задачи:
 
