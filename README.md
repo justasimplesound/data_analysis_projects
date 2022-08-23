@@ -7,3 +7,5 @@
 [e-learning_study_project](https://github.com/justasimplesound/DA_projects/tree/main/e-learning_study_project) - когортный анализ семестров с самой низкой завершаемостью и самым долгим средними сроками сдачи курсов. RFM-кластеризация студентов (среднее время сдачи экзамена, завершаемость курсов, среднее количество баллов)
 
 [AB-testing_cookie_cats](https://github.com/justasimplesound/DA_projects/tree/main/AB-testing_cookie_cats) - А/B тестирование новой версии мобильной игры, в котором сравниваются количество сыгранных раундов и retention. 
+
+[playlist_overview](https://github.com/justasimplesound/DA_projects/tree/main/playlist_overview) - анализ треков, которые я лайкал в период с июля 2020 по март 2022 с последующей визуализацией результатов в Tableau. 
