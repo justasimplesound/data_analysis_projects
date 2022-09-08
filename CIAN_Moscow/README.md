@@ -5,3 +5,5 @@
 - выяснить, при помощи каких параметров мы можем наиболее точно предсказывать цену жилья
 
 - нанести на карту квартиры, подходящие по определённым критериям
+
+Для корректного отображения карты см.: https://nbviewer.org/github/justasimplesound/DA_projects/blob/main/CIAN_Moscow/Moscow_Real_Estate.ipynb
