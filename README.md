@@ -9,3 +9,5 @@
 [AB-testing_cookie_cats](https://github.com/justasimplesound/DA_projects/tree/main/AB-testing_cookie_cats) - А/B тестирование новой версии мобильной игры, в котором сравниваются количество сыгранных раундов и retention. 
 
 [playlist_overview](https://github.com/justasimplesound/DA_projects/tree/main/playlist_overview) - анализ треков, которые я лайкал в период с июля 2020 по март 2022 с последующей визуализацией результатов в Tableau. 
+
+[CIAN_Moscow](https://github.com/justasimplesound/DA_projects/tree/main/CIAN_Moscow) - построение линейной регрессии для цены жилья в Москве, визуализация на карте дешёвых квартир, близких к центру, при помощи библиотеки folium
